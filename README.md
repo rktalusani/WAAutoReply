@@ -1,7 +1,7 @@
 # WAAutoReply
 Auto reply to incoming messages on Nexmo WhatsApp channel
 
-#Setup
+# Setup
 
 1. Load index.php in browser
 2. Add your WhatsApp for business number linked to Nexmo account
